@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "algebrite": "^1.4.0",
+    "mathjs": "^13.2.0"
+  }
+}
